@@ -1,4 +1,4 @@
-#myjournal_frontend
+# myjournal_frontend
 This repository contains the front-end code for the Journaling Website. The website is developed using TypeScript, Angular, and Node.js.
 
 **Features:**
