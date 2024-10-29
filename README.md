@@ -28,3 +28,14 @@ npm run start
 - Start writing a journal entry.
 - As you type, the website will automatically populate Bible verses based on the keywords of emotions in your journal entry.
 
+Snapshot of current UI:
+![image](https://github.com/user-attachments/assets/63650275-3a54-4768-a698-d1d049e61ca7)
+
+Missing field error:
+![image](https://github.com/user-attachments/assets/9d3f71be-bee8-4956-a9c9-24d57e8eadeb)
+
+Calendar:
+![image](https://github.com/user-attachments/assets/fd684968-6d7d-4090-aaa1-5703b4204995)
+
+
+
